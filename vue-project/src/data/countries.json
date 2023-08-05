@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "The Mekong River Boutique Hotel",
+      "description": "Sountr Nikon, Siem Rea, Cambodia",
+      "icon": "earth-americas-solid.svg",
+      "status": "Completed"
+    },
+
+    {
+      "id": 2,
+      "name": "Thailand",
+      "description": "Bankok",
+      "icon": "hotel-solid.svg",
+      "status": "Pending"
+    },
+
+    {
+      "id": 3,
+      "name": "Onederz Hotel Siem Reap",
+      "description": "Cambodia",
+      "icon": "hotel-solid.svg",
+      "status": "No-Show"
+    },
+
+    {
+      "id": 4,
+      "name": "Siem Reap Pub Hotel",
+      "description": "Terk Vil, Pouk, Siem Reap, Cambodia",
+      "icon": "hotel-solid.svg",
+      "status": "Upcoming"
+    },
+    {
+      "id": 5,
+      "name": "Indonesia",
+      "description": "Terk Vil, Pouk, Siem Reap, Cambodia",
+      "icon": "hotel-solid.svg",
+      "status": "Canceled"
+    },
+    {
+      "id": 7,
+      "name": "Myanmar  ",
+      "description": "Terk Vil, Pouk, Siem Reap, Cambodia",
+      "icon": "hotel-solid.svg",
+      "status": "Completed"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.el-date-editor.el-input__wrapper {
+  box-shadow: 0 0 0 0 var(--el-input-border-color, var(--el-border-color)) inset;
+}
+.el-date-editor.el-input__wrapper:hover{
+  box-shadow: 0 0 0 0 var(--el-input-border-color, var(--el-border-color)) inset;
+}
+.el-range-editor--large .el-range-input {
+  height: 38px;
+  line-height: 42px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+/* Scrolbar */
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #3627bb;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+/* Scrolbar */
+
